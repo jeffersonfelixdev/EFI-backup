@@ -1,12 +1,12 @@
 # EFI-backup
-EFI backup for macOS Catalina 10.15.6 with OpenCore 0.5.9 - ASUS TUF B360M - i5 9600k - UHD 630
+EFI backup for macOS Big Sur 11.2.3 with OpenCore 0.6.8 - ASUS TUF B360M - i5 9600k - UHD 630
 
 ## Setup
 - MB: ASUS TUF B360M-PLUS GAMING/BR
 - CPU: Intel Core i5 9600K
 - GPU: Integrated Intel UHD 630
-- OS: macOS Catalina 10.15.6
-- BOOT: OpenCore 0.5.9
+- OS: macOS Big Sur 11.2.3
+- BOOT: OpenCore 0.6.8
 
 ## Instructions
 - Copy files to EFI partition
@@ -21,4 +21,3 @@ EFI backup for macOS Catalina 10.15.6 with OpenCore 0.5.9 - ASUS TUF B360M - i5 
 - Accelerated graphics working (UHD 630 up to 1536MB shared memory)
 - Not working:
   - I don't know! (At least everything is working like a charm)
-  
