@@ -3,8 +3,8 @@ EFI backup for macOS Big Sur 11.3.1 with OpenCore 0.6.8 - ASUS TUF B360M - i5 96
 
 ## Setup
 - MB: ASUS TUF B360M-PLUS GAMING/BR
-- CPU: Intel Core i5 9600K and Radeon RX 560 4GB
-- GPU: Integrated Intel UHD 630
+- CPU: Intel Core i5 9600K
+- GPU: Integrated Intel UHD 630 and Radeon RX 560 4GB
 - OS: macOS Big Sur 11.2.3
 - BOOT: OpenCore 0.6.8
 
